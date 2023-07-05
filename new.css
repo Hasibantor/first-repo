@@ -3,5 +3,12 @@ div{
 }
 .rew{
     text-align: center;
-    
+
+}
+#are{
+    background-color: red;
+    box-sizing: content-box;
+}
+.tit{
+    text-align: center;
 }
